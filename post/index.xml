@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>philecoblog</title>
-    <link>http://chreliot.github.io/philecoblog/</link>
-    <description>Recent content on philecoblog</description>
+    <title>Posts on philecoblog</title>
+    <link>http://chreliot.github.io/philecoblog/post/</link>
+    <description>Recent content in Posts on philecoblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jul 2015 10:44:51 -0400</lastBuildDate>
-    <atom:link href="http://chreliot.github.io/philecoblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chreliot.github.io/philecoblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>example</title>
