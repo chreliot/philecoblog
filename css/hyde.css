@@ -31,8 +31,12 @@
  * Update the foundational and global aspects of the page.
  */
 
+/*
+July 14, 2015: I changed PT Sans right below this to PT Serif.
+*/
+
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Serif", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
